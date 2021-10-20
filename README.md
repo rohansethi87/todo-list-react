@@ -9,3 +9,4 @@ It includes things like
 - Inline CSS
 - State variables 
 - React routing with custom params
+- Will be adding Redux to it in future
